@@ -1,0 +1,16 @@
+.firstPlace {
+    width: 100%;
+    height: 20%;
+    background-color: black;
+}
+
+.secondPlace {
+    width: 100%;
+    height: 20%;
+    background-color: white;
+}
+
+.imgBody {
+    width: 100%;
+    height: 100%;
+}
